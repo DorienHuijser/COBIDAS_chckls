@@ -2,6 +2,7 @@
 
 The spreadsheet aim to have one checklist item (one question) per row. In general it is recommended to NOT hide rows but instead to filter using some of the columns.
 
+
 The MRI spreadsheet has some conditional formatting implemented so some cells will appear red when there is an error to be fixed. Some items that require more work might be manually highlighted in orange.
 
 Here follows a description of the columns content. If some do not appear it is possible that they have been hidden by someone else. You will simply have to click on the double black arrow at the limit between columns to display them back.
